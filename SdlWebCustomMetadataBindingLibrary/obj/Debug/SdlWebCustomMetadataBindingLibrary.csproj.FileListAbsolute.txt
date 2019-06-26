@@ -1,0 +1,9 @@
+C:\Users\admin\Documents\CustomMetaBinder\SdlWebCustomMetadataBindingLibrary\bin\Debug\SdlWebCustomMetadataBindingLibrary.dll
+C:\Users\admin\Documents\CustomMetaBinder\SdlWebCustomMetadataBindingLibrary\bin\Debug\SdlWebCustomMetadataBindingLibrary.pdb
+C:\Users\admin\Documents\CustomMetaBinder\SdlWebCustomMetadataBindingLibrary\bin\Debug\Trisoft.InfoShare.Plugins.Common.dll
+C:\Users\admin\Documents\CustomMetaBinder\SdlWebCustomMetadataBindingLibrary\bin\Debug\Trisoft.InfoShare.Plugins.SDK.dll
+C:\Users\admin\Documents\CustomMetaBinder\SdlWebCustomMetadataBindingLibrary\obj\Debug\SdlWebCustomMetadataBindingLibrary.csprojAssemblyReference.cache
+C:\Users\admin\Documents\CustomMetaBinder\SdlWebCustomMetadataBindingLibrary\obj\Debug\SdlWebCustomMetadataBindingLibrary.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\CustomMetaBinder\SdlWebCustomMetadataBindingLibrary\obj\Debug\SdlWebCustomMetadataBindingLibrary.csproj.CopyComplete
+C:\Users\admin\Documents\CustomMetaBinder\SdlWebCustomMetadataBindingLibrary\obj\Debug\SdlWebCustomMetadataBindingLibrary.dll
+C:\Users\admin\Documents\CustomMetaBinder\SdlWebCustomMetadataBindingLibrary\obj\Debug\SdlWebCustomMetadataBindingLibrary.pdb
